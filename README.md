@@ -1,0 +1,1 @@
+# Machine-Learning-Based-Hospital-Mortality-Prediction-Using-Synthetic-Minority-Oversampling-Technique
